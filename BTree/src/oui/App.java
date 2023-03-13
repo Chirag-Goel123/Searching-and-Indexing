@@ -18,7 +18,7 @@ public class App extends JFrame{
         tabPane.setForeground(Color.WHITE);
 
         homePanel=new HomePanel(tabPane);
-        // dataPanel=new DataPanel(tabPane);
+        dataPanel=new DataPanel(tabPane);
         // indexPanel=new IndexPanel(tabPane);
         // queryPanel=new QueryPanel(tabPane);
 
